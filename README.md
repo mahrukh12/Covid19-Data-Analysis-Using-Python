@@ -14,9 +14,9 @@ Decide on and calculate a good measure for our analysis.
 
 Import World happiness report dataset, dropping useless columns and Merge it with COVID19 dataset to find correlations among our data.
 *  Task 5: Visualizing the results 
-**  Visualize our results using Seaborn.
+**Visualize our results using Seaborn.
 
-##Project Goals:
+## Project Goals:
 *  Importing Covid19 dataset
 *  Finding a good Measure
 *  Importing and preparing World happiness report dataset
